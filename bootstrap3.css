@@ -1,0 +1,45 @@
+.backgroundimage1{
+background-image: url(media/bg-1.jpg)
+}
+.imeig{
+    height: 75vh;
+    margin-top: 5vh;
+}
+.sfondo2{
+    background-color: #1b1541;
+}
+.jollycut{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    height: 50vh;
+}
+.sfondo3{
+    background-image: url(media/bg-2.jpg);
+}
+.bgcolor{
+    background-color: #1b1541;
+}
+.backcalendar{
+    background-color:#fef006 ;
+    width: 10vh;
+    height: 10vh;
+}
+.sfondo4{
+    background-color:rgb(20, 9, 37);
+}
+.luana{
+    color: #fef006;
+}
+.background5{
+background-image: url(media/bg-3.jpg);
+}
+.bagroundcolor{
+background-color: rgb(33, 37, 41);
+}
+.marco{
+    color: #fef006;
+}
+
+
+
